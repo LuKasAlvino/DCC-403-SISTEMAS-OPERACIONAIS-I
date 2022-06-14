@@ -1,2 +1,2 @@
-# DCC-403-SISTEMAS-OPERACIONAIS-I
+# DCC-403-Sistemas operacionais
 Cursos extras
